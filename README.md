@@ -1,4 +1,3 @@
-# freecodecamp-challenges
-Challenges that I've been working on at freecodecamp.org.
+# HTML-CatPhotoApp-FreeCodeCamp
 
-This repository is meant to store and register the coding challenges I've completed at the FCC courses.
+This is the solution for the Cat Photo App challenge that is available at freecodecamp.org.
